@@ -4,7 +4,7 @@
 
 👨🏻‍💻 I'm a PHP/Go/Magento/Joomla/Drupal developer and Open source contributor.
 
-## Skills 🌈
+## Skills 🌈 🎉
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lua.svg"></code>
@@ -29,14 +29,14 @@
 |  |  |
 
 
-## Operating System 
+## 🚀🐳 Operating System
 
 [![macOS](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
 [![centOS](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)](https://www.centos.org/)
 
 
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Technologies & Tools 
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
