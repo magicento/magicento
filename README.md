@@ -1,43 +1,10 @@
-<!--
-**Magicento/Magicento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`
-- 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
-- 📘&nbsp;&nbsp; I wrote the **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
-- 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **ThinkPHP**, **development**, **devops**
+🎉 Welcome to my GitHub profile, it's great to meet you here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&theme=radical)
--->
+👨🏻‍💻 I'm a PHP/Go/Magento/Joomla/Drupal developer and Open source contributor.
 
-<!--
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&count_private=true&theme=radical"/>
-
-<!--
-#### 👋I'm a Backend DevOps Engineer working in China.
-
-- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.lua`
-- 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**
-- 😄&nbsp;&nbsp; Learning all about **Open Source**
--->
-
-<!--
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tinywan&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
-</p>
--->
-
-### Skills 🌈
+## Skills 🌈
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lua.svg"></code>
@@ -54,6 +21,35 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/shell.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"></code>
 
-### Tools 🔭
-![github](https://user-images.githubusercontent.com/1791395/231973224-9d08f13e-4b1d-4717-998b-f6e08c18ea1d.png)
+💬 You can contact me on [Email:373075@gmail.com](mailto:373075@gmail.com)
+
+|  |  |
+|--------|-------|
+|<img src="https://github-readme-stats.vercel.app/api?username=magicento&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 100%;">|<img src="https://github-readme-stats.vercel.app/api?username=walkor&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 100%;">|
+|  |  |
+
+
+## Operating System 
+
+[![macOS](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
+[![centOS](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)](https://www.centos.org/)
+
+
+
+## 🚀💻 Technologies & Tools
+
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![Golang](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
+  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+  [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
+<img src="https://user-images.githubusercontent.com/1791395/231973224-9d08f13e-4b1d-4717-998b-f6e08c18ea1d.png" style="width: 86%;">
+
+[![GitHub Snake Light](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/magicento)
+
+
 
