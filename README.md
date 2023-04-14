@@ -1,5 +1,5 @@
 <!--
-**Tinywan/Tinywan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Magicento/Magicento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
